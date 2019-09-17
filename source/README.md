@@ -1,11 +1,11 @@
-# Zthxxx's Wiki~
+# GYX's Wiki~
 
-[![Build Status](https://api.travis-ci.org/zthxxx/Wiki-site.png?branch=writing)](https://travis-ci.org/zthxxx/Wiki-site)
+[![Build Status](https://api.travis-ci.org/gyx138/Wiki-site.png?branch=hexo)](https://travis-ci.org/gyx138/Wiki-site)
 
-Hello there! Welcome to this wiki site, I'm zthxxx, a cat in the college.
+Hello there! Welcome to this wiki site, I'm GYX.
 
 This is my personal wiki to manage my scattered knowledge. You are welcome to contact me!
 
-[wiki.zthxxx.me](http://blog.zthxxx.me)
+[gyx138.github.io](http://gyx138.github.io)
 
-Follow me from [**GitHub**](https://github.com/zthxxx).
+Follow me from [**GitHub**](https://github.com/gyx138).
